@@ -1,4 +1,4 @@
-name: 'Allure report V2'
+name: 'Allure generate report '
 description: 'Generate Allure report for test suite'
 inputs:
   results-dir:  # id of input
